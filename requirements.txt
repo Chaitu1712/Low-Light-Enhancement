@@ -1,0 +1,16 @@
+# Core Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image Processing
+numpy>=1.23.5
+Pillow>=9.4.0
+rawpy>=0.18.0
+scikit-image>=0.20.0
+
+# Visualization & Progress
+matplotlib>=3.7.1
+tqdm>=4.65.0
+
+# Environment
+scipy>=1.10.1
